@@ -5,11 +5,17 @@ nav_order: 1
 
 # Pelaajien kronikka
 
+![Pahan Karkoittajat: Gil, Rhogar, Malleus ja Horna tavernassa](kuvat/pahan-karkoittajat.jpg){: style="width: 100%; max-width: 720px; border-radius: 4px;" }
+*Pahan Karkoittajat*
+{: .text-grey-dk-000 }
+
 Tämä on Pronssiportti-kampanjan (myöhemmin Sielukivet) kronikka: Dungeons & Dragons -kampanjan tapahtumat Faerûnin Miekkarannikolla siinä järjestyksessä kuin seurue ne eli.
 
 Kronikka perustuu pelinjohtajan päiväkohtaisiin muistiinpanoihin ja pelaajien omiin merkintöihin. Siinä kerrotaan vain se, minkä seurue tietää tai on nähnyt.
 
-## Seurue
+## Seurue: Pahan Karkoittajat
+
+Seurue kulkee nimellä **Pahan Karkoittajat**.
 
 | Hahmo | Kuka |
 |---|---|

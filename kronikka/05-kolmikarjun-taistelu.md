@@ -19,6 +19,10 @@ nav_order: 5
 
 ## Kultainen Hevosenkenkä
 
+![Pitkänsatulan kartta](../kuvat/pitkasatula.jpg){: style="width: 100%; max-width: 480px;" }
+*Pitkäsatula*
+{: .text-grey-dk-000 }
+
 **22.–23. Tarsakh.** Pitkässäsatulassa Malleus löysi Kultaisesta Hevosenkengästä ensimmäiseksi baaritiskin. Paikalle saapui joukko Lathanderin seuraajiksi esittäytyviä, ja heidän joukossaan oli vuorikääpiö. Tavernan takana oli sauna ja olutta, joten Malleus ja kääpiö vetäytyivät sinne.
 
 Sillä välin Gil yritti värvätä lathanderilaisia avuksi taisteluun epäkuollutta lohikäärmettä vastaan. He suostuivat, mutta tuntuivat olevan erityisen kiinnostuneita seurueen pirullisemmista jäsenistä. Gil päätti, että seurue majoittuisi Uumenalasta pelastetun Alvinin suvun hevostilalle, ja Alvinille lähetettiin sana.
@@ -28,6 +32,10 @@ Matkalla saunaan Malleus oli huomannut kääpiön kyljessä **petturin polttomer
 Kun Horna ja Basun saapuivat kylään, tavernan ovella oli vähällä syttyä verinen kahakka: lathanderilaiset eivät olleetkaan niin hyväntahtoisia kuin olivat vakuutelleet. Gil sai lopulta Rhogarin avulla suostuteltua heidät siihen, etteivät seurueen pirut olleet taistelun arvoisia. Juhlatunnelma oli kuitenkin mennyttä, ja seurue siirtyi yöksi **Zellorgoszien hevostilalle** metsänlaitaan. Alvinin suku on Pitkänsatulan tunnettuja hevoskasvattajia. Tilan väki epäili, että puheet Lathanderista olivat valetta. Seurue sopi vahtivuoroista ja pyysi isäntää lisäämään vartiointia.
 
 ## Yö hevostilalla
+
+![Zellorgoszien tila](../kuvat/zellorgoszien-tila.jpg){: style="width: 100%; max-width: 480px;" }
+*Zellorgoszien tila*
+{: .text-grey-dk-000 }
 
 **Yöllä 23.–24. Tarsakh.** Malleus vartioi vankia viinikellarissa ja samalla viiniä, ettei se päätyisi vääriin suihin. Hornan vahtivuorolla talosta kuului ääniä. Horna muuttui pikkueläimeksi ja lähti tutkimaan. Käytävällä kulki palvelija **Abram**, mutta hän liikkui epävarmasti kuin talo olisi ollut hänelle vieras. Horna seurasi häntä isännän huoneeseen ja näki, kuinka palvelija muuttui *Hornan* näköiseksi.
 

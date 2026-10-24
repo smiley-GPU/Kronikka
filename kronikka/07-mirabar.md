@@ -37,6 +37,10 @@ Yöllä tehtiin kellon palautusrituaali. **Kellon henget ja kellomestari pääsi
 
 ## Succubus
 
+![Mirabarin keittiö](../kuvat/mirabar-keittio.jpg){: style="width: 100%; max-width: 560px;" }
+*Keittiö, jossa succubus yllätettiin*
+{: .text-grey-dk-000 }
+
 **9. Mirtul.** Kääpiöt maksoivat seurueelle palkkiot. Riswynn oli kuitenkin herättänyt epäilyjä, ja illalla hän paljastui **succubukseksi**. Seurue houkutteli hänet keittiöön persikoilla, yllätti hänet siellä ja voitti hänet.
 
 **10. Mirtul.** Mirabarin maanalaisten kaivosten **Kristalliputoukselta** matka jatkui katakombeihin. Sieltä löytyi noiduttuna **oikea Riswynn**, ja seurue pelasti hänet. Riswynn kertoi joutuneensa lumotuksi ja vaipuneensa koomaan. Seurue arveli, että succubus oli jättänyt hänet henkiin voidakseen myöhemmin palauttaa hänet temppeliin.

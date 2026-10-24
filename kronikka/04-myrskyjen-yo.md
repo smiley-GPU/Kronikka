@@ -23,6 +23,10 @@ nav_order: 4
 
 **15. Tarsakh.** Seurue löysi pimentohaltioiden tornin, hyökkäsi sinne ja vapautti orjat. Yksi pimentohaltioista pakeni, joten lisäjoukot olisivat pian tulossa.
 
+![Kartta Uumenalan tornista](../kuvat/kartta-uumenalan-tornista.jpg){: style="width: 100%; max-width: 480px;" }
+*Kartta Uumenalan tornista*
+{: .text-grey-dk-000 }
+
 Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Malleukselle **moukarin**, joka voi kietoa ympäristönsä täyteen hiljaisuuteen.
 
 **16. Tarsakh.** Seurue pakeni vapautettujen orjien kanssa ulos Uumenalasta ennen kuin lisäjoukot ehtivät paikalle. Mukana olivat Myrskyliskon heimon **Thulgar**, **Voormin** ja **Anthos**, **Alvin Zellorgosz** Pitkästäsatulasta, muutama metsästäjä ja joukko seikkailijoita, joiden moraaliin ei ollut luottamista.

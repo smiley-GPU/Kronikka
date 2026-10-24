@@ -19,6 +19,10 @@ nav_order: 6
 
 ## Länsisilta
 
+![Länsisillan kartta](../kuvat/lansisilta.jpg){: style="width: 100%; max-width: 560px;" }
+*Länsisilta*
+{: .text-grey-dk-000 }
+
 **1. Mirtul.** Iltapäivällä seurue saapui Länsisillalle ja tiedusteli ympäristöä. Kylän yllä leijui vihreää savua. Horna lensi kylän yli ja näki vajassa lepäävän **epäkuolleen lohikäärmeen**. Torilla oli käynnissä synkkä seremonia: riepuihin käärittyjä hahmoja roikkui köysissä, ja niitä valeltiin jollakin nesteellä.
 
 Yön tullen kylässä alkoi ulkonaliikkumiskielto. Vähän ennen puoltayötä Gezzog liikahti. Paikalle saapui lohikäärmesyntyinen, joka hyväili sen kalloa. Sitten Gezzog nousi ilmaan ja lensi länteen. Horna seurasi sitä Kryptgardeniin **Sinimiekkalammelle**, jonka rannalla kultisteilla oli leiri. Muu seurue seurasi Länsisillalta lähtenyttä viestinviejää samaan paikkaan.
@@ -27,15 +31,24 @@ Matkalla seurue kohtasi viisi kultistia ja nelijalkaisen liskon. Horna kaatoi ko
 
 ## Sinimiekkalammen taistelu
 
+![Kartta Länsisillalta Sinimiekkalammelle ja Vartijan Kämmenelle](../kuvat/sinimiekkalammen-kartta.jpg){: style="width: 100%; max-width: 480px;" }
+*Länsisillalta Kryptgardeniin: leiri, lohikäärmekivet ja Vartijan Kämmen*
+{: .text-grey-dk-000 }
+
 **2. Mirtul.** Lammelle saavuttaessa kukkulalla odotti tusina vihollista ja heidän johtajansa. Gezzogia ei näkynyt missään. Seurue hyökkäsi. Horna loitsi jäämyrskyn, ja Malleus salamoi itsensä keskelle taistelua.
 
-Kun taistelu näytti jo voitetulta, **Gezzog nousi vedestä**. Malleus loikkasi ukkosen lailla suoraan lohikäärmeen selkään ja alkoi hakata sitä. Hornan salama osui lohikäärmeeseen ja samalla Malleukseen. Gil siirtyi usvana perään ja iski lohikäärmeeseen syviä haavoja pyhän voiman tuella. Gezzog nousi korkeammalle ja pudotti sankarit veteen. Sitten se laskeutui ja puhalsi happoa.
+Kun taistelu näytti jo voitetulta, **Gezzog nousi vedestä**. Malleus loikkasi ukkosen lailla suoraan lohikäärmeen selkään ja alkoi hakata sitä.
+
+![Malleus loikkaa Gezzogin kimppuun](../kuvat/malleus-ja-gezzog.jpg){: style="width: 100%; max-width: 520px;" }
+*Malleus ja Gezzog*
+{: .text-grey-dk-000 }
+ Hornan salama osui lohikäärmeeseen ja samalla Malleukseen. Gil siirtyi usvana perään ja iski lohikäärmeeseen syviä haavoja pyhän voiman tuella. Gezzog nousi korkeammalle ja pudotti sankarit veteen. Sitten se laskeutui ja puhalsi happoa.
 
 Malleus kaatui ensimmäisenä jäljellä olleiden vihollisten iskuihin, sitten Rhogar. Horna paransi molemmat. Vielä yhden salaman jälkeen taistelu kääntyi: vakavasti haavoittunut Gezzog pakeni. Seurue selvisi voittajana, vaikka kuoleman portilla käytiin useaan otteeseen.
 
-## Vartijan Sormet
+## Vartijan Kämmen
 
-Illaksi seurue lähti **Vartijan Sormille**, toiselle lammelle Kryptgardenissa. Siellä **Bethrek Mahtava** kukistettiin, ja Gezzog kohdattiin vielä kerran. Lopulta **Malleus** laukaisi taikasauvastaan taikavasamia, ja ne päättivät lohikäärmeen. **Gezzog oli tuhottu.**
+Illaksi seurue lähti **Vartijan Kämmenelle**, toiselle lammelle Kryptgardenissa. Siellä **Bethrek Mahtava** kukistettiin, ja Gezzog kohdattiin vielä kerran. Lopulta **Malleus** laukaisi taikasauvastaan taikavasamia, ja ne päättivät lohikäärmeen. **Gezzog oli tuhottu.**
 **3. Mirtul.** Seurue palasi Kolmikarjuun, raportoi Lady Protectorille ja yöpyi hänen tornissaan.
 
 ## Sielukivi
@@ -62,5 +75,5 @@ Kun seurue palasi kivestä, **Besilmerin kellomestari** hyökkäsi Silaksen kart
 |---|---|---|
 | Länsisilta | Westbridge | Kultin miehittämä kylä. |
 | Sinimiekkalampi | – | Lampi Kryptgardenissa, kultin leiri. |
-| Vartijan Sormet | – | Toinen lampi Kryptgardenissa, jossa Gezzog tuhottiin. |
+| Vartijan Kämmen | – | Toinen lampi Kryptgardenissa, jossa Gezzog tuhottiin. |
 | Kolmikarju | Triboar | Lady Protectorin ja Silas Silvermornin kaupunki. |
