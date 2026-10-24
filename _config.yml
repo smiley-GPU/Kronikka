@@ -1,0 +1,19 @@
+title: Pelaajien kronikka
+description: Pronssiportti ja Sielukivet. Sword Coastin kampanjan tapahtumat sellaisina kuin seurue ne koki.
+lang: fi
+
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+back_to_top: true
+back_to_top_text: "Takaisin ylös"
+
+footer_content: >-
+  Epävirallista fanisisältöä Wizards of the Coastin Fan Content Policyn mukaisesti.
+  Ei Wizards of the Coastin hyväksymä eikä tukema. Osa käytetystä aineistosta on Wizards of the Coastin omaisuutta. ©Wizards of the Coast LLC.
+
+exclude:
+  - todo.md
+  - README.md
