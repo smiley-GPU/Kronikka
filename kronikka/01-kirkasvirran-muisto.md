@@ -45,7 +45,7 @@ nav_order: 1
 
 **27.–28. Ches.** Matkapäiviä.
 
-**29. Ches.** Käiberin raunioissa gnollit hyökkäsivät pyhitysmenojen aikana. Seurue suojeli pappia, ja hän sai pyhityksen tehtyä. Sen jälkeen seurue suuntasi kohti **Yartaria**, josta oli tarkoitus jatkaa jokilaivalla etelään.
+**29. Ches.** Käiberin raunioissa gnollit hyökkäsivät pyhitysmenojen aikana. Seurue suojeli pappia, **Aldous Minoslavia**, ja hän sai pyhityksen tehtyä. Sen jälkeen seurue suuntasi kohti **Yartaria**, josta oli tarkoitus jatkaa jokilaivalla etelään.
 
 ---
 
@@ -57,7 +57,7 @@ nav_order: 1
 | Shalendra Floshin | Kirkasvirtalainen haltia, jonka seurue pelasti. |
 | Talabriel | Enkeli, joka kertoi seurueelle Kazit Gulista. |
 | Kazit Gul | Thayn Punainen velho ja lich. |
-| Kelemvorin pappi | Pyhitti Käiberin solan hautausmaan. *Nimi selvitetään.* |
+| Aldous Minoslav | Kelemvorin pappi, joka pyhitti Käiberin solan hautausmaan. |
 
 ## Paikat tässä luvussa
 
@@ -69,6 +69,3 @@ nav_order: 1
 | Käiberin sola | – | Kääpiölinnoituksen rauniot ja muinainen hautausmaa. |
 | Yartar | Yartar | Jokikaupunki, josta seurue aikoi jatkaa laivalla etelään. |
 
-## Avoimet kysymykset
-
-- Mikä on Käiberin solan Kelemvorin papin nimi?

@@ -25,7 +25,7 @@ nav_order: 4
 
 Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Malleukselle **moukarin**, joka voi kietoa ympäristönsä täyteen hiljaisuuteen.
 
-**16. Tarsakh.** Seurue pakeni vapautettujen orjien kanssa ulos Uumenalasta ennen kuin lisäjoukot ehtivät paikalle. Mukana olivat Myrskyliskon heimon **Thulgar**, **Voormin** ja **Anthos**, **Alvin Tellorzgosz** Pitkästäsatulasta, muutama metsästäjä ja joukko seikkailijoita, joiden moraaliin ei ollut luottamista.
+**16. Tarsakh.** Seurue pakeni vapautettujen orjien kanssa ulos Uumenalasta ennen kuin lisäjoukot ehtivät paikalle. Mukana olivat Myrskyliskon heimon **Thulgar**, **Voormin** ja **Anthos**, **Alvin Zellorgosz** Pitkästäsatulasta, muutama metsästäjä ja joukko seikkailijoita, joiden moraaliin ei ollut luottamista.
 
 ## Myrskyjen yö
 
@@ -39,7 +39,9 @@ Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Ma
 
 **21. Tarsakh.** Kultilla oli leiri **Nyrkkikalliolla** Starmetal Hillsin lähellä. Seurue otti sieltä kaksi kultistia vangiksi. Leiristä löytyi myös haltian pää. Se kuului **Malcor Lehtiharjulle**, Kirkasvirran metsästäjälle. Pää oli tarkoitettu maksuksi jollekulle, mutta kenelle, sitä seurue ei saanut selville.
 
-**22. Tarsakh.** **Pitkässäsatulassa** seuruetta odottivat Lathanderin paladiineiksi pukeutuneet miehet. He paljastuivat palkkionmetsästäjiksi. Toinen kultistivangeista päästettiin vapaaksi, toisen söi *displacer beast*.
+**22. Tarsakh.** Matkalla **Pitkäänsatulaan** Horna opasti seurueen tiheän auringonkukkapellon läpi. Siellä heidän kimppuunsa hyökkäsi kaksi *displacer beastia*. Seurue kaatoi toisen, ja toinen pakeni. Taistelun tiimellyksessä toinen kultistivangeista yritti karata. Rhogarin kuolinkellot soivat, ja siihen vangin pako päättyi.
+
+Pitkässäsatulassa, **Kultaisen Hevosenkengän** majatalossa, seuruetta odottivat Lathanderin paladiineiksi esittäytyvät miehet. Myöhemmin he paljastuivat palkkionmetsästäjiksi.
 
 ---
 
@@ -48,7 +50,7 @@ Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Ma
 | Nimi | Kuka |
 |---|---|
 | Thulgar, Voormin ja Anthos | Myrskyliskon heimon barbaareja, jotka seurue vapautti Uumenalasta. |
-| Alvin Tellorzgosz | Pitkästäsatulasta kotoisin oleva vapautettu vanki. |
+| Alvin Zellorgosz | Pitkästäsatulasta kotoisin oleva vapautettu vanki, hevoskasvattajasuvun poika. |
 | Basun Ranik | Demoniseppä, kulkee seurueen mukana. |
 | Gezzog | Lohikäärme, Rhogarin arkkivihollinen. |
 | Alric, Kaelon, Theron ja Eryndal | Keräilijät, joita seurue auttoi peikkoja vastaan. |
