@@ -35,8 +35,7 @@ Malleus kaatui ensimmäisenä jäljellä olleiden vihollisten iskuihin, sitten R
 
 ## Vartijan Sormet
 
-Illaksi seurue lähti **Vartijan Sormille**, toiselle lammelle Kryptgardenissa. Siellä **Gezzog tuhottiin**, ja **Bethrek Mahtava**, joka oli myös paikalla, kukistettiin.
-
+Illaksi seurue lähti **Vartijan Sormille**, toiselle lammelle Kryptgardenissa. Siellä **Bethrek Mahtava** kukistettiin, ja Gezzog kohdattiin vielä kerran. Lopulta **Malleus** laukaisi taikasauvastaan taikavasamia, ja ne päättivät lohikäärmeen. **Gezzog oli tuhottu.**
 **3. Mirtul.** Seurue palasi Kolmikarjuun, raportoi Lady Protectorille ja yöpyi hänen tornissaan.
 
 ## Sielukivi
@@ -65,8 +64,3 @@ Kun seurue palasi kivestä, **Besilmerin kellomestari** hyökkäsi Silaksen kart
 | Sinimiekkalampi | – | Lampi Kryptgardenissa, kultin leiri. |
 | Vartijan Sormet | – | Toinen lampi Kryptgardenissa, jossa Gezzog tuhottiin. |
 | Kolmikarju | Triboar | Lady Protectorin ja Silas Silvermornin kaupunki. |
-
-## Avoimet kysymykset
-
-- Miten Gezzog lopulta tuhottiin Vartijan Sormilla? (Täydennetään Rhogarin kronikasta.)
-- Kuka oli kultin hyökkäystä johtanut kultisti, jolla oli keltainen viitta ja kultainen arpi?

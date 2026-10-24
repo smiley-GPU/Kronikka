@@ -39,7 +39,7 @@ Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Ma
 
 **21. Tarsakh.** Kultilla oli leiri **Nyrkkikalliolla** Starmetal Hillsin lähellä. Seurue otti sieltä kaksi kultistia vangiksi. Leiristä löytyi myös haltian pää. Se kuului **Malcor Lehtiharjulle**, Kirkasvirran metsästäjälle. Pää oli tarkoitettu maksuksi jollekulle, mutta kenelle, sitä seurue ei saanut selville.
 
-**22. Tarsakh.** Matkalla **Pitkäänsatulaan** Horna opasti seurueen tiheän auringonkukkapellon läpi. Siellä heidän kimppuunsa hyökkäsi kaksi *displacer beastia*. Seurue kaatoi toisen, ja toinen pakeni. Taistelun tiimellyksessä toinen kultistivangeista yritti karata. Rhogarin kuolinkellot soivat, ja siihen vangin pako päättyi.
+**22. Tarsakh.** Matkalla **Pitkäänsatulaan** Horna opasti seurueen tiheän auringonkukkapellon läpi. Siellä heidän kimppuunsa hyökkäsi kaksi *displacer beastia*. Seurue kaatoi toisen, ja toinen pakeni. Taistelun tiimellyksessä toinen kultistivangeista yritti karata. Rhogar soitti hänelle kuolinkelloja, ja siihen vangin pako päättyi.
 
 Pitkässäsatulassa, **Kultaisen Hevosenkengän** majatalossa, seuruetta odottivat Lathanderin paladiineiksi esittäytyvät miehet. Myöhemmin he paljastuivat palkkionmetsästäjiksi.
 
@@ -70,4 +70,3 @@ Pitkässäsatulassa, **Kultaisen Hevosenkengän** majatalossa, seuruetta odottiv
 ## Avoimet kysymykset
 
 - Kenelle Malcor Lehtiharjun pää oli tarkoitettu maksuksi?
-- Ketkä palkkasivat Lathanderin paladiineiksi pukeutuneet palkkionmetsästäjät, ja ketä he jahtasivat?

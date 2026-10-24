@@ -13,7 +13,7 @@ Kronikka perustuu pelinjohtajan päiväkohtaisiin muistiinpanoihin ja pelaajien 
 
 | Hahmo | Kuka |
 |---|---|
-| **Gileod Gileodathan** ("Gil") | Ihminen, Vartijoiden valan paladiini. Entinen jokimerimies. |
+| **Gileod Gileodathan** ("Gil") | Ihminen, Vartijoiden valan paladiini. Entinen jokilaivuri. |
 | **Rhogar** | Lohikäärmesyntyinen Kelemvorin pappi. |
 | **Horna** | Tieflingidruidi, entinen maantierosvo ja vuorten erakko. |
 | **Malleus** | Kääpiö, soturi ja villin magian velho. |
@@ -27,7 +27,8 @@ Kronikka perustuu pelinjohtajan päiväkohtaisiin muistiinpanoihin ja pelaajien 
 5. [Kolmikarjun taistelu](kronikka/05-kolmikarjun-taistelu.html) (23. Tarsakh – Vihreän ruohon juhla)
 6. [Gezzogin tuho](kronikka/06-gezzogin-tuho.html) (1.–4. Mirtul)
 7. [Mirabar](kronikka/07-mirabar.html) (5.–15. Mirtul)
-8. [Gilin koti](kronikka/08-gilin-koti.html) (16.–23. Mirtul)
+8. [Gilin koti](kronikka/08-gilin-koti.html) (16.–21. Mirtul)
+9. [Amphail](kronikka/09-amphail.html) (22. Mirtul –)
 
 ## Korjauksia ja lisäyksiä
 

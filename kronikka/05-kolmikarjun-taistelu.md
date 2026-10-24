@@ -37,7 +37,7 @@ Horna puuttui heti tilanteeseen. Hän lamautti tunkeilijan ja purki tämän taia
 
 **24. Tarsakh.** Seurue päätti iskeä ensin. Kun he saapuivat majatalolle, se oli tulessa, ja paikalla olleet kyläläiset syyttivät tuhotyöstä seuruetta. Rhogar nosti esiin Kelemvorin symbolin ja puhui väelle järkeä. Silloin palavasta majatalosta hyökkäsi ulos väärä Rhogar, väärä Malleus ja muita roistoja. Seuranneessa taistelussa Malleus hakkasi roistoja minkä ehti.
 
-Taistelun jälkeen paikalle saapui velho **Duncan Harpell**, ja hänellekin piti todistaa, ettei seurueessa ollut mitään vikaa. Valepaladiinien johtaja **Hubbard** jäi henkiin. Hän myönsi, että joukko oli **Thayn Punaisten velhojen palkkaamia palkkionmetsästäjiä**, ja lupasi unohtaa palkkion ja pysyä poissa seurueen tieltä.
+Taistelun jälkeen paikalle saapui velho **Duncan Harpell**, ja hänellekin piti todistaa, ettei seurueessa ollut mitään vikaa. Valepaladiinien johtaja **Hubbard** jäi henkiin. Hän myönsi, että joukko oli **Thayn Punaisten velhojen palkkaamia palkkionmetsästäjiä**: velhot olivat julkaisseet seurueesta **etsintäkuulutukset**. Hubbard lupasi unohtaa palkkion ja pysyä poissa seurueen tieltä.
 
 Kultistivanki **Jukhur Cumur** oli päättänyt hylätä Lohikäärmekultin aatteen, ja hänet päästettiin vapaaksi. Demoniseppä **Basun Ranik** sai hevostilalta työtarjouksen ja jäi sinne sepäksi.
 
@@ -59,7 +59,7 @@ Kultistivanki **Jukhur Cumur** oli päättänyt hylätä Lohikäärmekultin aatt
 
 Kolmikarju juhli voittoa ja suri kuolleitaan. Lady Protector otti seurueen vastaan, ja hänen seurassaan oli Hiljaisen Sateen puolihaltia **Sharat**. Hiljainen Sade ei sopimussyistä voinut auttaa. Lady Protector antoi seurueelle **neljä hopeista pinssiä**, jotka hohtavat yhtä aikaa. Niissä lukee: *"Yhdessä olette linnoitus."*
 
-Seurue keskusteli Länsisillan tilanteesta puolituisen **Herivinin** kanssa. Hän on Länsisillan majatalon isäntä. Hyökkäystä oli johtanut kultisti, jolla oli keltainen viitta, valkoiset naamiot ja kultainen arpi. Kultistit etsivät **Kolmen valtiattaren triptyykkiä** ja olivat jostain syystä patsaiden perässä. Kultin metsäleiri oli Kryptgardenissa.
+Seurue keskusteli Länsisillan tilanteesta puolituisen **Herivinin** kanssa. Hän on Länsisillan majatalon isäntä. Hyökkäystä oli johtanut kultisti, jolla oli keltainen viitta, valkoiset naamiot ja kultainen arpi: **Bethrek Mahtava** itse. Kultistit etsivät **Kolmen valtiattaren triptyykkiä** ja olivat jostain syystä patsaiden perässä. Kultin metsäleiri oli Kryptgardenissa.
 
 Thaddeus tunsi kivenhakkaaja **Horgarin**, joka tuntee Kryptgardenin hyvin. Seurue sai selville Horgarin asuinpaikan Länsisillalla sekä salareitin Herivinin majataloon. Thaddeus lähti etsimään hapolta suojaavia juomia. Niitä hän ei löytänyt, mutta toi vedessähengitysjuoman ja ansojen löytämisen käärön.
 

@@ -21,7 +21,7 @@ nav_order: 3
 
 **8. Tarsakh.** Mustan Kotkan kalliolla, tien varrella Mere of Dead Menin suon laidalla, seuruetta odotti **Talabriel**. Hänen seurassaan olivat ihmismaagi **Kishori** ja haltiametsänkävijä **Ava**.
 
-**9. Tarsakh.** Suolla seurue taisteli peikkoa ja worgia vastaan. Suon tornissa he joivat **Matkalaisen viiniä**, ja viini avasi heille portin **Sigiliin**, Ovien kaupunkiin. Malleus joi pullon tyhjäksi, joten kukaan ei tiennyt, miten sieltä pääsisi takaisin.
+**9. Tarsakh.** Suolla seurue taisteli peikkoa ja worgia vastaan. **Iniarvin tornissa** suon keskellä he joivat **Matkalaisen viiniä**, ja viini avasi heille portin **Sigiliin**, Ovien kaupunkiin. Malleus joi pullon tyhjäksi, joten kukaan ei tiennyt, miten sieltä pääsisi takaisin.
 
 ## Ovien kaupunki
 
@@ -60,6 +60,7 @@ Portti vei heidät **Pronssiportin sisäpuolelle**. Valtaistuimella istui muinai
 |---|---|---|
 | Mustan Kotkan kallio | – | Kallio tien varrella suon laidalla. |
 | Mere of Dead Men | Mere of Dead Men | Suuri suo rannikolla. |
+| Iniarvin torni | Iniarv's Tower | Rauniotorni suolla, jossa Matkalaisen viini juotiin. |
 | Sigil | Sigil | Ovien kaupunki, Kivun Valtiattaren kaupunki. |
 | Suuri Ahjo | – | Tulijättiläisten paja Sigilissä. |
 | Ruumishuone | The Mortuary | Tomun Airuiden päämaja Sigilissä. |
@@ -67,6 +68,5 @@ Portti vei heidät **Pronssiportin sisäpuolelle**. Valtaistuimella istui muinai
 
 ## Avoimet kysymykset
 
-- Mikä oli torni, jossa Matkalaisen viini juotiin? (Iniarvin torni?)
 - Millä valenimellä Rhogar esiintyi Ceshelonin juhlissa? ("… Itäläinen")
 - Kuka oli valtaistuimella istunut soturikuningas?
