@@ -14,7 +14,7 @@ nav_order: 3
 | Hamun Kost | Punainen velho, teetti kaivauksia Vanhan Pöllön kaivolla. | [1](../kronikka/01-kirkasvirran-muisto.html) |
 | Frath Ammakyl | Aatelinen, Punaisten velhojen "opas" Kivisillalla. Sarinahin kirjeiden "F.A." | [2](../kronikka/02-aavikon-ruusu.html), [9](../kronikka/09-amphail.html) |
 | Hubbard | Lathanderin paladiineiksi naamioituneiden palkkionmetsästäjien johtaja. Jahtasi seuruetta Thayn velhojen etsintäkuulutuksen perusteella. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
-| Hessem Vorn | Hovimaagina esiintynyt Thayn mies. Nyt seurueen vanki. | [9](../kronikka/09-amphail.html) |
+| Hessem Vorn | Ilzimmereiden hovimaagi ja Thayn Punainen velho. Nyt seurueen vanki. | [9](../kronikka/09-amphail.html) |
 | Sarinah Tor | Punainen velho, suon kaivauksen johtaja. Kuollut. | [9](../kronikka/09-amphail.html) |
 | Tithon Drax | Punainen velho, luovutettiin keijuille vangiksi. | [9](../kronikka/09-amphail.html) |
 | Amar Koh | Sarinahin kirjeiden "A.K." Kuka hän on? | [9](../kronikka/09-amphail.html) |

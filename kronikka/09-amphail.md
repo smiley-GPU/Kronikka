@@ -21,7 +21,7 @@ nav_order: 9
 
 **22. Mirtul.** Lautanrakentajan majatalon takana, kukkulalla Pitkän tien yllä, seurue osui aatelisten piknikille. Siellä olivat Amphailin Lord Warderin lapset **Thanvas** ja **Tharal Ilzimmer** sekä heidän vieraansa **Arravanil Eagleshield**. Pensaikosta ryntäsivät esiin keijut: kentauri **Merrow Thistlemane**, satyyri, unta tuottavilla nuolilla ampuvia keijuja ja kävelevät puut.
 
-Seurue **pysäytti taistelun** asettumatta kummankaan puolelle. Punaiset velhot olivat ajaneet keijut kotoaan, metsäsuolta Louhikosken eteläpuolelta, ja vanginneet osan heidän sukulaisistaan. Seurue päästi aateliset vapaiksi, mutta **antoi keijujen viedä Hessem Vornin**, Ilzimmereiden "hovimaagin", joka oli valepukuinen Punainen velho. Seurue lupasi vapauttaa keijujen vangitut sukulaiset.
+Seurue **pysäytti taistelun** asettumatta kummankaan puolelle. Punaiset velhot olivat ajaneet keijut kotoaan, metsäsuolta Louhikosken eteläpuolelta, ja vanginneet osan heidän sukulaisistaan. Seurue päästi aateliset vapaiksi, mutta **antoi keijujen viedä Hessem Vornin**, Ilzimmereiden hovimaagin, joka oli Thayn Punainen velho. Seurue lupasi vapauttaa keijujen vangitut sukulaiset.
 
 ## Hukkunut suo
 
@@ -53,7 +53,7 @@ Keijut palauttivat Hessem Vornin, ja hänestä tuli seurueen vanki. Rhogar yritt
 | Thanvas ja Tharal Ilzimmer | Amphailin Lord Warderin poika ja tytär. |
 | Arravanil Eagleshield | Ilzimmereiden vieras. |
 | Merrow Thistlemane | Kentauri, keijujen johtaja. |
-| Hessem Vorn | Hovimaagina esiintynyt Punainen velho, nyt seurueen vanki. |
+| Hessem Vorn | Ilzimmereiden hovimaagi ja Thayn Punainen velho, nyt seurueen vanki. |
 | Sarinah Tor | Punainen velho, kaivauksen johtaja. Kuollut. |
 | Tithon Drax | Punainen velho, luovutettiin keijuille. |
 | Amar Koh | Nimi Sarinahin kirjeistä ("A.K."). |
