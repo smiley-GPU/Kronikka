@@ -36,6 +36,8 @@ Seurue kulkee nimellä **Pahan Karkoittajat**.
 8. [Gilin koti](kronikka/08-gilin-koti.html) (16.–21. Mirtul)
 9. [Amphail](kronikka/09-amphail.html) (22. Mirtul –)
 
+![Horna, Malleus ja Rhogar, mustepiirros](kuvat/seurue-luonnos.jpg){: style="width: 300px; max-width: 100%; height: auto;" }
+
 ## Korjauksia ja lisäyksiä
 
 Muistatko jotain toisin tai tiedätkö lisää? Avaa *issue* tai tee *pull request*. Pelinjohtaja hyväksyy muutokset.
