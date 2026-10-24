@@ -29,7 +29,7 @@ nav_order: 4
 
 Tornista löytyi vanha kääpiöpaja ja sepän haamu. Yön aikana haamu takoi Malleukselle **moukarin**, joka voi kietoa ympäristönsä täyteen hiljaisuuteen.
 
-**16. Tarsakh.** Seurue pakeni vapautettujen orjien kanssa ulos Uumenalasta ennen kuin lisäjoukot ehtivät paikalle. Mukana olivat Myrskyliskon heimon **Thulgar**, **Voormin** ja **Anthos**, **Alvin Zellorgosz** Pitkästäsatulasta, muutama metsästäjä ja joukko seikkailijoita, joiden moraaliin ei ollut luottamista.
+**16. Tarsakh.** Seurue pakeni vapautettujen orjien kanssa ulos Uumenalasta ennen kuin lisäjoukot ehtivät paikalle. Mukana olivat Myrskyliskon heimon **Thulgar**, **Voormin** ja **Anthos**, **Alvin Zellorgosz** Pitkästäsatulasta, muutama metsästäjä ja joukko seikkailijoita, joiden moraaliin ei ollut luottamista. Vankien joukossa oli myös "kalamies" **Glugluaa**, mutta hänen heimonsa tuli hakemaan hänet ennen kuin seurue lähti.
 
 ## Myrskyjen yö
 
@@ -54,6 +54,7 @@ Pitkässäsatulassa, **Kultaisen Hevosenkengän** majatalossa, seuruetta odottiv
 | Nimi | Kuka |
 |---|---|
 | Thulgar, Voormin ja Anthos | Myrskyliskon heimon barbaareja, jotka seurue vapautti Uumenalasta. |
+| Glugluaa | Uumenalan vanki, "kalamies". Hänen heimonsa haki hänet. |
 | Alvin Zellorgosz | Pitkästäsatulasta kotoisin oleva vapautettu vanki, hevoskasvattajasuvun poika. |
 | Basun Ranik | Demoniseppä, kulkee seurueen mukana. |
 | Gezzog | Lohikäärme, Rhogarin arkkivihollinen. |

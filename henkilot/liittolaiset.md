@@ -26,6 +26,7 @@ nav_order: 2
 | Kriphis Maphet | *Aavikon Ruusun* perämies, kapteenin vaimon sisko. | [2](../kronikka/02-aavikon-ruusu.html) |
 | Strika ja Koda | Yartarin Keltaisen Käden jäseniä, Hornan vanhoja tuttuja. | [2](../kronikka/02-aavikon-ruusu.html) |
 | Thulgar, Voormin ja Anthos | Myrskyliskon heimon barbaareja, jotka seurue vapautti Uumenalasta. | [4](../kronikka/04-myrskyjen-yo.html), [7](../kronikka/07-mirabar.html) |
+| Glugluaa | "Kalamies", jonka seurue vapautti Uumenalassa. Hänen heimonsa haki hänet. | [4](../kronikka/04-myrskyjen-yo.html) |
 | Alvin Zellorgosz | Pitkänsatulan hevoskasvattajasuvun poika, vapautettu Uumenalasta. | [4](../kronikka/04-myrskyjen-yo.html), [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Alric, Kaelon, Theron ja Eryndal | Keräilijät, joita seurue auttoi peikkoja vastaan. | [4](../kronikka/04-myrskyjen-yo.html) |
 | Tino | Pitkänsatulan Kultaisen Hevosenkengän isäntä. | – |
@@ -66,4 +67,5 @@ nav_order: 2
 |---|---|---|
 | Basun Ranik | Demoniseppä. Kulki seurueen mukana Sigilistä asti ja jäi Zellorgoszien tilalle sepäksi. | [3](../kronikka/03-sigil.html), [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Inkid | Sigilin katulapsi. | [3](../kronikka/03-sigil.html) |
+| Celci Nugglebelly | Gastrognome-ravintolan pitäjä. Seurue toi hänelle nagan sydämen ja pääsi hänen tarjoilijoinaan Ceshelonin juhliin. | [3](../kronikka/03-sigil.html) |
 | Ceshelonin huone | Shadar-kai-suku: kauppaparoni Ivon, paronitar Iza sekä lapset Eren, Rona ja Lawin. | [3](../kronikka/03-sigil.html) |

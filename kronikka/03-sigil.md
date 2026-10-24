@@ -25,9 +25,9 @@ nav_order: 3
 
 ## Ovien kaupunki
 
-Sigilissä katulapsi **Inkid** vei seurueen demoniseppä **Basun Ranikin** luo. Basun lupasi auttaa, mutta tarvitsi siihen **shadar-kai-prinssin kyyneleitä**. Seurue voitti **nagan** ja vei sen sydämen erääseen ravintolaan.
+Sigilissä katulapsi **Inkid** vei seurueen demoniseppä **Basun Ranikin** luo. Basun lupasi auttaa, mutta tarvitsi siihen **shadar-kai-prinssin kyyneleitä**. Seurue voitti **nagan** ja vei sen sydämen **Gastrognome**-ravintolaan, jota pitää **Celci Nugglebelly**.
 
-**10. Tarsakh.** Ravintolan tarjoilijoiksi pukeutuneina seurue pääsi **Ceshelonin huoneen** linnoitukseen. Shadar-kai-suku juhli siellä nuorimman lapsensa, prinssi **Lawinin**, syntymäpäivää. Juhlissa prinssi myrkytettiin vahingossa kuoliaaksi. Rhogar toi hänet takaisin valenimellä esiintyen. Pelastuksen tiimellyksessä seurue keräsi prinssin kyyneleet kenenkään huomaamatta.
+**10. Tarsakh.** Gastrognomen tarjoilijoiksi pukeutuneina seurue pääsi **Ceshelonin huoneen** linnoitukseen. Shadar-kai-suku juhli siellä nuorimman lapsensa, prinssi **Lawinin**, syntymäpäivää. Juhlissa prinssi myrkytettiin vahingossa kuoliaaksi. Rhogar toi hänet takaisin valenimellä **Kramvor Itäläinen**. Pelastuksen tiimellyksessä seurue keräsi prinssin kyyneleet kenenkään huomaamatta.
 
 **11. Tarsakh.** Tulijättiläisten **Suuresta Ahjosta** Horna varasti hämähäkiksi muuttuneena **Murtamisen taltan**.
 
@@ -51,6 +51,7 @@ Portti vei heidät **Pronssiportin sisäpuolelle**. Valtaistuimella istui muinai
 | Kishori | Ihmismaagi, Talabrielin seuralainen. |
 | Ava | Haltiametsänkävijä, Talabrielin seuralainen. |
 | Inkid | Sigilin katulapsi. |
+| Celci Nugglebelly | Gastrognome-ravintolan pitäjä Sigilissä. |
 | Basun Ranik | Demoniseppä, jonka apua seurue tarvitsi Rautakruunun murtamiseen. Kulkee seurueen mukana. |
 | Ceshelonin huone | Shadar-kai-suku: kauppaparoni Ivon, paronitar Iza (soturi) sekä lapset Eren, Rona ja Lawin. |
 
@@ -62,11 +63,11 @@ Portti vei heidät **Pronssiportin sisäpuolelle**. Valtaistuimella istui muinai
 | Mere of Dead Men | Mere of Dead Men | Suuri suo rannikolla. |
 | Iniarvin torni | Iniarv's Tower | Rauniotorni suolla, jossa Matkalaisen viini juotiin. |
 | Sigil | Sigil | Ovien kaupunki, Kivun Valtiattaren kaupunki. |
+| Gastrognome | – | Celci Nugglebellyn ravintola Sigilissä. |
 | Suuri Ahjo | – | Tulijättiläisten paja Sigilissä. |
 | Ruumishuone | The Mortuary | Tomun Airuiden päämaja Sigilissä. |
 | Pronssiportti | – | Hautakammio Uumenalassa, kuninkaan ja hänen armeijansa lepopaikka. |
 
 ## Avoimet kysymykset
 
-- Millä valenimellä Rhogar esiintyi Ceshelonin juhlissa? ("… Itäläinen")
 - Kuka oli valtaistuimella istunut soturikuningas?

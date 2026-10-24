@@ -9,6 +9,7 @@ nav_order: 3
 | Nimi | Alkuperäinen nimi | Mikä | Luvut |
 |---|---|---|---|
 | Sigil | Sigil | Ovien kaupunki, Kivun Valtiattaren kaupunki. | [3](../kronikka/03-sigil.html) |
+| Gastrognome | – | Celci Nugglebellyn ravintola Sigilissä. | [3](../kronikka/03-sigil.html) |
 | Suuri Ahjo | – | Tulijättiläisten paja Sigilissä. | [3](../kronikka/03-sigil.html) |
 | Ruumishuone | The Mortuary | Tomun Airuiden päämaja Sigilissä. | [3](../kronikka/03-sigil.html) |
 | Ceshelonin linnoitus | – | Shadar-kai-suvun linnoitus Sigilissä. | [3](../kronikka/03-sigil.html) |
