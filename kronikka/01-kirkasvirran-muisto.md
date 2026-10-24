@@ -1,10 +1,10 @@
 ---
-title: "1. Oldingladin muisto"
+title: "1. Kirkasvirran muisto"
 parent: Kronikka
 nav_order: 1
 ---
 
-# 1. Oldingladin muisto
+# 1. Kirkasvirran muisto
 {: .no_toc }
 
 *15.–29. Ches 1491*
@@ -19,13 +19,13 @@ nav_order: 1
 
 ## Vanhan Pöllön kaivo
 
-**15. Ches.** Vanhan Pöllön kaivolla, raunioituneen tornin luona, Thayn Punainen velho **Hamun Kost** teetti kaivauksia. Seurue kohtasi hänet siellä. Raunioista se pelasti **Shalendra Floshinin**, haltian, joka oli kotoisin **Oldingladin** (Kirkasvirran) kylästä.
+**15. Ches.** Vanhan Pöllön kaivolla, raunioituneen tornin luona, Thayn Punainen velho **Hamun Kost** teetti kaivauksia. Seurue kohtasi hänet siellä. Raunioista se pelasti **Shalendra Floshinin**, haltian, joka oli kotoisin **Kirkasvirran** kylästä.
 
 ## Muistorituaali
 
-**18. Ches.** Oldingladissa pidettiin muistorituaali sankareille, jotka eivät olleet palanneet kotiin. He eivät olleet myöskään päässeet tuonpuoleiseen. Heidän katoamisestaan oli kulunut puoli vuotta: he olivat kadonneet 18. Eleintia 1490.
+**18. Ches.** Kirkasvirrassa pidettiin muistorituaali sankareille, jotka eivät olleet palanneet kotiin. He eivät olleet myöskään päässeet tuonpuoleiseen. Heidän katoamisestaan oli kulunut puoli vuotta: he olivat kadonneet 18. Eleintia 1490.
 
-**19. Ches.** Seuraavana päivänä enkeli **Talabriel** kutsui seurueen neuvonpitoon Oldingladissa. Hän kertoi heille Thayn Punaisesta velhosta ja lichistä **Kazit Gulista**, **Rautakruunusta** ja **Pronssiportista**.
+**19. Ches.** Seuraavana päivänä enkeli **Talabriel** kutsui seurueen neuvonpitoon Kirkasvirrassa. Hän kertoi heille Thayn Punaisesta velhosta ja lichistä **Kazit Gulista**, **Rautakruunusta** ja **Pronssiportista**.
 
 ## Takaisin raunioille
 
@@ -41,7 +41,7 @@ nav_order: 1
 
 ## Kelemvorin pappi
 
-**26. Ches.** **Triboarissa**, jota joskus kutsutaan Kolmikarjuksi, seurue osti uudet hevoset. He ylittivät joen ja lähtivät etsimään vahvempaa Kelemvorin pappia. Pappi oli mennyt **Käiberin solan** kääpiölinnoituksen raunioihin pyhittämään muinaista hautausmaata.
+**26. Ches.** **Kolmikarjussa** seurue osti uudet hevoset. He ylittivät joen ja lähtivät etsimään vahvempaa Kelemvorin pappia. Pappi oli mennyt **Käiberin solan** kääpiölinnoituksen raunioihin pyhittämään muinaista hautausmaata.
 
 **27.–28. Ches.** Matkapäiviä.
 
@@ -54,10 +54,20 @@ nav_order: 1
 | Nimi | Kuka |
 |---|---|
 | Hamun Kost | Thayn Punainen velho, teetti kaivauksia Vanhan Pöllön kaivolla. |
-| Shalendra Floshin | Oldingladilainen haltia, jonka seurue pelasti. |
+| Shalendra Floshin | Kirkasvirtalainen haltia, jonka seurue pelasti. |
 | Talabriel | Enkeli, joka kertoi seurueelle Kazit Gulista. |
 | Kazit Gul | Thayn Punainen velho ja lich. |
 | Kelemvorin pappi | Pyhitti Käiberin solan hautausmaan. *Nimi selvitetään.* |
+
+## Paikat tässä luvussa
+
+| Nimi | Alkuperäinen nimi | Mikä |
+|---|---|---|
+| Kirkasvirta | Oldinglad | Haltiakylä, jossa sankarien muistorituaali pidettiin. |
+| Vanhan Pöllön kaivo | Old Owl Well | Raunioitunut torni katakombeineen; Hamun Kostin kaivaukset. |
+| Kolmikarju | Triboar | Kaupunki, josta seurue osti uudet hevoset. |
+| Käiberin sola | – | Kääpiölinnoituksen rauniot ja muinainen hautausmaa. |
+| Yartar | Yartar | Jokikaupunki, josta seurue aikoi jatkaa laivalla etelään. |
 
 ## Avoimet kysymykset
 

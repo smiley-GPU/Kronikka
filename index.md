@@ -20,7 +20,7 @@ Kronikka perustuu pelinjohtajan päiväkohtaisiin muistiinpanoihin ja pelaajien 
 
 ## Luvut
 
-1. [Oldingladin muisto](kronikka/01-oldingladin-muisto.html) (15.–29. Ches 1491)
+1. [Kirkasvirran muisto](kronikka/01-kirkasvirran-muisto.html) (15.–29. Ches 1491)
 
 ## Korjauksia ja lisäyksiä
 
