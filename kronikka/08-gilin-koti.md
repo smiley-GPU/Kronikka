@@ -49,6 +49,10 @@ Yöllä seurueen kimppuun hyökkäsi joukko naamioituneita rosvoja ja salamurhaa
 
 ## Leroyn luola
 
+![Leroyn luola](../kuvat/leroyn-luola.jpg){: style="width: 100%; max-width: 400px;" }
+*Leroyn luola*
+{: .text-grey-dk-000 }
+
 **21. Mirtul.** Kuolleilta rosvoilta seurue oli saanut *speak with dead* -loitsulla selville, missä rosvojen piilopaikka suunnilleen oli. Metsästäjä **Ekemon**, joka tunsi Louhikosken eteläpuolisen metsän, opasti heidät sinne. **Leroyn luolasta** löytyi naamioituneiden rosvojen joukko. Rosvot olivat toimineet Thayn palveluksessa ja kostaneet seurueelle. Seurue surmasi heidät, ja osa "rosvoista" paljastui valepukuisiksi **Thayn Punaisiksi velhoiksi**. Gil oli kostanut vanhempiensa kuoleman. Ronnia ei luolassa ollut.
 
 Luola ja rosvojoukko olivat kerran kuuluneet lainsuojattomalle **Leroylle**. Luolasta löytyi Leroy itse **kivettyneenä**. Seurue palautti hänet lihaksi ja vereksi, ja hän keskusteli heidän kanssaan. Hän näytti seurueelle **pakoavaimensa**, käytti sitä kerran näyttääkseen, miten se toimii, ja jätti sen heille. Sitten hän lähti Louhikoskelle aloittamaan elämänsä alusta uudella nimellä: **"Roley"**.

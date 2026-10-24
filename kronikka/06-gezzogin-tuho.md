@@ -48,6 +48,10 @@ Malleus kaatui ensimmäisenä jäljellä olleiden vihollisten iskuihin, sitten R
 
 ## Vartijan Kämmen
 
+![Vartijan Kämmenen kartta](../kuvat/vartijan-kammen.jpg){: style="width: 100%; max-width: 400px;" }
+*Vartijan Kämmen*
+{: .text-grey-dk-000 }
+
 Illaksi seurue lähti **Vartijan Kämmenelle**, toiselle lammelle Kryptgardenissa. Siellä **Bethrek Mahtava** kukistettiin, ja Gezzog kohdattiin vielä kerran. Lopulta **Malleus** laukaisi taikasauvastaan taikavasamia, ja ne päättivät lohikäärmeen. **Gezzog oli tuhottu.**
 **3. Mirtul.** Seurue palasi Kolmikarjuun, raportoi Lady Protectorille ja yöpyi hänen tornissaan.
 

@@ -33,7 +33,17 @@ Yöllä Horna tapasi vanhat tuttunsa **Strikan** ja **Kodan**, jotka kuuluivat Y
 
 **3. Tarsakh.** Joki virtasi solaan, jonka suulla seisoivat **Itkevät Vartijat**, suuret kääpiöpatsaat, joiden silmistä valui vettä. Siellä naamioitunut hahmo vaati *Aavikon Ruusua* luovuttamaan patsaan, jota laiva kuljetti Syvään Veteen. Seurue ja miehistö päättivät luovuttaa patsaan.
 
+![Naamioitunut hahmo veneessä](../kuvat/naamioitu-hahmo.jpg){: style="width: 100%; max-width: 320px;" }
+*Naamioitunut hahmo*
+{: .text-grey-dk-000 }
+
+
 **4. Tarsakh.** Kanjonissa myrsky riepotteli laivaa. Kanjonin seinämästä oli sortunut pala, ja sortuma oli paljastanut vanhan vartiotornin poikkileikkauksena. Tornista seurue löysi **Besilmerin kellon**.
+
+![Sortuman paljastama torni Dessarinin kanjonissa](../kuvat/dessarin-kanjoni.jpg){: style="width: 100%; max-width: 480px;" }
+*Sortuman paljastama vartiotorni Dessarinin kanjonissa*
+{: .text-grey-dk-000 }
+
 
 ## Kivisilta
 

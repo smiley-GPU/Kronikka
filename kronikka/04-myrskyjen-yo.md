@@ -21,6 +21,10 @@ nav_order: 4
 
 **14. Tarsakh.** Hautakammiosta seurue laskeutui kuilua pitkin **Uumenalaan**. Matkalla he löysivät seittien peittämän ruumiin. Sienikaupungissa asunnot oli rakennettu suurten sienten sisään. Seurue tarkkaili kaupunkia, mutta ei mennyt lähemmäs. Sen sijaan he seurasivat **pimentohaltioiden** karavaania, joka kuljetti tulimalmia. Siitä syttyi taistelu.
 
+![Pimentohaltioiden torni Uumenalassa](../kuvat/torni-uumenalassa.jpg){: style="width: 100%; max-width: 360px;" }
+*Torni Uumenalassa*
+{: .text-grey-dk-000 }
+
 **15. Tarsakh.** Seurue löysi pimentohaltioiden tornin, hyökkäsi sinne ja vapautti orjat. Yksi pimentohaltioista pakeni, joten lisäjoukot olisivat pian tulossa.
 
 ![Kartta Uumenalan tornista](../kuvat/kartta-uumenalan-tornista.jpg){: style="width: 100%; max-width: 480px;" }

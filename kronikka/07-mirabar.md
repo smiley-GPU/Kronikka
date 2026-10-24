@@ -33,6 +33,10 @@ Rhoanna oli jäänyt Pitkäänsatulaan. Kun Rhogar lähetti hänelle viestin tai
 
 **8. Mirtul.** Puoliltapäivin seurue saapui **Mirabariin**. Siellä se tapasi kaupungin kääpiöjohtajia: Mirabarin kirveiden komentajan **Morana Rautakouran**, Moradinin ylipapin **Olunt Daerdahkin**, Vergadainin papin **Riswynn Kullanlöytäjän** ja Dumathoinin papin **Whurbin Hopeakiven**. Paikalla olivat myös apupapit **Nuraval Gorunn** ja **Liftrasa Väkiahjo**.
 
+![Dumathoinin patsas](../kuvat/dumathoin.jpg){: style="width: 100%; max-width: 220px;" }
+*Dumathoin*
+{: .text-grey-dk-000 }
+
 Yöllä tehtiin kellon palautusrituaali. **Kellon henget ja kellomestari pääsivät viimein lepoon.**
 
 ## Succubus

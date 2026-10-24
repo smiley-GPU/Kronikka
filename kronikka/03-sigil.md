@@ -25,7 +25,16 @@ nav_order: 3
 
 ## Ovien kaupunki
 
-Sigilissä katulapsi **Inkid** vei seurueen demoniseppä **Basun Ranikin** luo. Basun lupasi auttaa, mutta tarvitsi siihen **shadar-kai-prinssin kyyneleitä**. Seurue voitti **nagan** ja vei sen sydämen **Gastrognome**-ravintolaan, jota pitää **Celci Nugglebelly**.
+![Basun Ranik](../kuvat/basun-ranik.jpg){: style="width: 100%; max-width: 360px;" }
+*Basun Ranik, demoniseppä*
+{: .text-grey-dk-000 }
+
+Sigilissä katulapsi **Inkid** vei seurueen demoniseppä **Basun Ranikin** luo. Basun lupasi auttaa, mutta tarvitsi siihen **shadar-kai-prinssin kyyneleitä**.
+
+![Basunin paja](../kuvat/basunin-paja.jpg){: style="width: 100%; max-width: 560px;" }
+*Basun Ranikin paja*
+{: .text-grey-dk-000 }
+ Seurue voitti **nagan** ja vei sen sydämen **Gastrognome**-ravintolaan, jota pitää **Celci Nugglebelly**.
 
 **10. Tarsakh.** Gastrognomen tarjoilijoiksi pukeutuneina seurue pääsi **Ceshelonin huoneen** linnoitukseen. Shadar-kai-suku juhli siellä nuorimman lapsensa, prinssi **Lawinin**, syntymäpäivää. Juhlissa prinssi myrkytettiin vahingossa kuoliaaksi. Rhogar toi hänet takaisin valenimellä **Kramvor Itäläinen**. Pelastuksen tiimellyksessä seurue keräsi prinssin kyyneleet kenenkään huomaamatta.
 

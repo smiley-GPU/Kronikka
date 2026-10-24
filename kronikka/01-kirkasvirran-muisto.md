@@ -19,6 +19,10 @@ nav_order: 1
 
 ## Vanhan Pöllön kaivo
 
+![Vanhan Pöllön kaivo](../kuvat/vanhan-pollon-kaivo.jpg){: style="width: 100%; max-width: 480px;" }
+*Vanhan Pöllön kaivo*
+{: .text-grey-dk-000 }
+
 **15. Ches.** Vanhan Pöllön kaivolla, raunioituneen tornin luona, Thayn Punainen velho **Hamun Kost** teetti kaivauksia. Seurue kohtasi hänet siellä. Raunioista se pelasti **Shalendra Floshinin**, haltian, joka oli kotoisin **Kirkasvirran** kylästä.
 
 ## Muistorituaali
@@ -31,11 +35,20 @@ nav_order: 1
 
 **20. Ches.** Seurue lähti takaisin Vanhan Pöllön kaivolle ja tornin raunioille ja kävi kaivauksilla. Matkalla he kohtasivat mäkijättiläisiä. Barbaariheimon jäseniä he väistivät.
 
+![Vuoristolampi lähellä Vanhan Pöllön kaivoa](../kuvat/vuoristolampi.jpg){: style="width: 100%; max-width: 560px;" }
+*Vuoristolampi lähellä kaivoa*
+{: .text-grey-dk-000 }
+
 **21. Ches.** Matka jatkui kohti tornia.
 
 **22. Ches.** Raunioituneessa tornissa seurue joutui peikkojen ja ogrejen hyökkäyksen kohteeksi. Hyökkäys torjuttiin, mutta seurueen hevoset kuolivat.
 
 **23. Ches.** Seurue heräsi tornissa. Tornin alla olevissa katakombeissa, samoissa joista Shalendra oli pelastettu, odotti syvyyksien olento, **Deep Spawn**. Seurue voitti sen ja lähti jälleen matkaan.
+
+![Deep Spawn](../kuvat/deep-spawn.jpg){: style="width: 100%; max-width: 480px;" }
+*Deep Spawn*
+{: .text-grey-dk-000 }
+
 
 **24.–25. Ches.** Matkapäiviä.
 
