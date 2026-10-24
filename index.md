@@ -21,6 +21,9 @@ Kronikka perustuu pelinjohtajan päiväkohtaisiin muistiinpanoihin ja pelaajien 
 ## Luvut
 
 1. [Kirkasvirran muisto](kronikka/01-kirkasvirran-muisto.html) (15.–29. Ches 1491)
+2. [Aavikon Ruusu](kronikka/02-aavikon-ruusu.html) (30. Ches – 7. Tarsakh)
+3. [Sigil](kronikka/03-sigil.html) (8.–13. Tarsakh)
+4. [Uumenalasta Myrskyjen yöhön](kronikka/04-myrskyjen-yo.html) (14.–22. Tarsakh)
 
 ## Korjauksia ja lisäyksiä
 
