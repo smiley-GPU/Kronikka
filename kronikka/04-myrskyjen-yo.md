@@ -75,7 +75,3 @@ Pitkässäsatulassa, **Kultaisen Hevosenkengän** majatalossa, seuruetta odottiv
 | Nyrkkikallio | – | Kultin leiripaikka. |
 | Starmetal Hills | Starmetal Hills | Kukkulat, joiden lähellä Nyrkkikallio on. |
 | Pitkäsatula | Longsaddle | Kylä, jossa palkkionmetsästäjät odottivat. |
-
-## Avoimet kysymykset
-
-- Kenelle Malcor Lehtiharjun pää oli tarkoitettu maksuksi?

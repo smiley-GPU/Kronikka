@@ -70,9 +70,3 @@ Keijut palauttivat Hessem Vornin, ja hänestä tuli seurueen vanki. Rhogar yritt
 | Pää ja Luutarha | – | Kaivauspaikat läntisillä kukkuloilla. |
 | Sali | – | Paikka, jonne "musta polttoaine" toimitetaan. |
 | Amphail | Amphail | Hevoskylä Pitkän tien varrella. |
-
-## Avoimet kysymykset
-
-- Kuka on Amar Koh?
-- Mikä on Pää, ja mihin Thay tarvitsee Kättä?
-- Mikä on Sali?

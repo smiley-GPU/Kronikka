@@ -106,9 +106,3 @@ Thaddeus tunsi kivenhakkaaja **Horgarin**, joka tuntee Kryptgardenin hyvin. Seur
 | Gwaeron's Rest | Gwaeron's Rest | Pyhättö lähellä Kolmikarjua. |
 | Ikiwyvernin sali | Everwyvern | Kolmikarjun rakennus, jonka katolla Gezzog kohdattiin. |
 | Kryptgarden | Kryptgarden | Metsä, jossa kultin leiri oli. |
-
-## Avoimet kysymykset
-
-- Mikä oli petturin polttomerkki saunan kääpiön kyljessä?
-- Kuka oli zhentiläinen kreivi, ja miksi Gezzog halusi juuri tämän safiirin?
-- Mikä on Kolmen valtiattaren triptyykki?

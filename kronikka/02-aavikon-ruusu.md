@@ -81,8 +81,3 @@ Yöllä seurue teki ryöstön. Talabriel järjesti heidän pyynnöstään harhau
 | Kivisilta | Stone Bridge | Silta, jonka luona Thayn leiri oli. |
 | Syvä Vesi | Waterdeep | Kaupunki, jonne patsasta oli määrä kuljettaa. |
 | Kryptgarden | Kryptgarden | Metsä, jonka lehdossa yksisarvinen asui. |
-
-## Avoimet kysymykset
-
-- Kuka väijytti seurueen matkalla Yartariin?
-- Kuka oli naamioitunut hahmo Itkevien Vartijoiden luona, ja mihin hän tarvitsi patsasta?

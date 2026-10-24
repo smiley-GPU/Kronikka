@@ -76,7 +76,3 @@ Portti vei heidät **Pronssiportin sisäpuolelle**. Valtaistuimella istui muinai
 | Suuri Ahjo | – | Tulijättiläisten paja Sigilissä. |
 | Ruumishuone | The Mortuary | Tomun Airuiden päämaja Sigilissä. |
 | Pronssiportti | – | Hautakammio Uumenalassa, kuninkaan ja hänen armeijansa lepopaikka. |
-
-## Avoimet kysymykset
-
-- Kuka oli valtaistuimella istunut soturikuningas?

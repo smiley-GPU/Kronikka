@@ -85,7 +85,3 @@ Thayn saaliista seurue otti talteen **rannerenkaan, jossa oli Thayn riimuja**, *
 | Louhikoski | Womford | Kylä Dessarinin varrella. |
 | Lautanrakentajan majatalo | Bargewright Inn | Majatalokylä Dessarinin länsirannalla. |
 | Leroyn luola | – | Rosvojen piilopaikka Louhikosken eteläpuolisessa metsässä. |
-
-## Avoimet kysymykset
-
-- Mitä Ronn aikoo Amphailissa?
