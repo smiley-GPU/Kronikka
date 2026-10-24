@@ -38,5 +38,5 @@ nav_order: 3
 | Besilmerin kellomestari | Kellon henkivartija. | päässyt lepoon | – | [6](../kronikka/06-gezzogin-tuho.html), [7](../kronikka/07-mirabar.html) |
 | Malcor Lehtiharju | Kirkasvirran metsästäjä, jonka pää löytyi kultin leiristä. | kuollut | – | [4](../kronikka/04-myrskyjen-yo.html) |
 | Abram | Hevostilan palvelija, jonka hahmonvaihtaja surmasi. | kuollut | – | [5](../kronikka/05-kolmikarjun-taistelu.html) |
-| Zhentiläinen kreivi | Tarjosi Lady Protectorille sinistä safiiria "myötäjäisiksi". | elossa | ei tiedossa | [5](../kronikka/05-kolmikarjun-taistelu.html) |
+| Darak Thorne | Zhentiläinen kreivi. Tarjosi Lady Protectorille sinistä safiiria "myötäjäisiksi". | elossa | ei tiedossa | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Naamioitunut hahmo | Vaati Itkevien Vartijoiden luona Syvään Veteen menevää patsasta. | ei tiedossa | – | [2](../kronikka/02-aavikon-ruusu.html) |

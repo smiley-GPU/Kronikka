@@ -14,7 +14,7 @@ nav_order: 2
 | Patsas | naamioituneella hahmolla | *Aavikon Ruusun* lastia, matkalla Syvään Veteen. | [2](../kronikka/02-aavikon-ruusu.html) |
 | Besilmerin kello | Mirabar | Muinaisen kääpiövaltakunnan kello. Palautettiin klaaneille. | [2](../kronikka/02-aavikon-ruusu.html), [7](../kronikka/07-mirabar.html) |
 | Zargosin Sydän | Myrskyliskon heimo | Rubiini, jota kultti yritti ryöstää shamaanilta. | [4](../kronikka/04-myrskyjen-yo.html) |
-| Sininen safiiri | ei tiedossa | Zhentiläisen kreivin "myötäjäislahja". Gezzog ja Rhoanna ryöstivät sen. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
+| Sininen safiiri | ei tiedossa | Zhentiläisen kreivin Darak Thornen "myötäjäislahja". Gezzog ja Rhoanna ryöstivät sen. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Kolmen valtiattaren triptyykki | ei tiedossa | Kultti etsi sitä. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Rhoannan sielukivi | tuhottu | Kivi Rhoannan rinnassa. Sisällä oli Gezzog. | [6](../kronikka/06-gezzogin-tuho.html) |
 | Sielukivet | Kazit Gulilla | Kivet, joista Talabriel kertoi. | [7](../kronikka/07-mirabar.html) |

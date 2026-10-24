@@ -59,7 +59,7 @@ Kultistivanki **Jukhur Cumur** oli päättänyt hylätä Lohikäärmekultin aatt
 
 ## Kolmikarjun taistelu
 
-**29. Tarsakh.** Hyökkäys alkoi sumulla. Vale-Gezzog iski pakolaisleiriin, ja kaupunkiin hyökkäsi jättiapinoita, joita seurue torjui. Lopulta seurue kohtasi **Gezzogin** **Ikiwyvernin salin** katolla ja pihamaalla. Gezzogin rinnalla taisteli lohikäärmesyntyinen nainen, jonka Rhogar tunnisti: hänen siskonsa **Rhoanna**. Gezzog ja Rhoanna ryöstivät suuren **sinisen safiirin**, jonka zhentiläinen kreivi oli tarjonnut Lady Protectorille "myötäjäisiksi".
+**29. Tarsakh.** Hyökkäys alkoi sumulla. Vale-Gezzog iski pakolaisleiriin, ja kaupunkiin hyökkäsi jättiapinoita, joita seurue torjui. Lopulta seurue kohtasi **Gezzogin** **Ikiwyvernin salin** katolla ja pihamaalla. Gezzogin rinnalla taisteli lohikäärmesyntyinen nainen, jonka Rhogar tunnisti: hänen siskonsa **Rhoanna**. Gezzog ja Rhoanna ryöstivät suuren **sinisen safiirin**, jonka zhentiläinen kreivi **Darak Thorne** oli tarjonnut Lady Protectorille "myötäjäisiksi".
 
 **30. Tarsakh.** Kaupungissa siivottiin taistelun jälkiä. Kultti vetäytyi Länsisillalle. Yöllä Rhogar paransi sairaita.
 
@@ -91,6 +91,7 @@ Thaddeus tunsi kivenhakkaaja **Horgarin**, joka tuntee Kryptgardenin hyvin. Seur
 | Thaddeus Brom ja Zed | Talabrielin yhteyshenkilöt, kauppias ja goliath-vartija. |
 | Sharat | Hiljaisen Sateen edustaja, puolihaltia. |
 | Rhoanna | Rhogarin sisko, taisteli Gezzogin rinnalla. |
+| Darak Thorne | Zhentiläinen kreivi, joka tarjosi Lady Protectorille sinistä safiiria. |
 | Herivin | Puolituinen, Länsisillan majatalon isäntä. |
 | Horgar | Kivenhakkaaja, joka tuntee Kryptgardenin. |
 
