@@ -6,21 +6,22 @@ nav_order: 3
 
 # Viholliset ja arvoitukset
 
-*Tila ja olinpaikka 23. Mirtul 1491, sen mukaan mitä seurue tietää. "Missä nyt" on viimeisin tiedossa oleva paikka.*
+*Tila ja olinpaikka 24. Mirtul 1491, sen mukaan mitä seurue tietää. "Missä nyt" on viimeisin tiedossa oleva paikka.*
 
 ## Thay
 
 | Nimi | Kuka | Tila | Missä nyt | Luvut |
 |---|---|---|---|---|
-| Kazit Gul | Thayn Punainen velho ja lich. Rautakruunu oli hänen. | epäkuollut (lich) | Thayn enklaavi, Amphail | [1](../kronikka/01-kirkasvirran-muisto.html), [7](../kronikka/07-mirabar.html) |
+| Kazit Gul | Thayn Punainen velho ja lich. Rautakruunu oli hänen. Puhui ja loitsi epäkuolleiden soturien kautta väijytyksessä kärrytiellä. | epäkuollut (lich) | Thayn enklaavi, Amphail | [1](../kronikka/01-kirkasvirran-muisto.html), [7](../kronikka/07-mirabar.html), [9](../kronikka/09-amphail.html) |
 | Hamun Kost | Punainen velho, teetti kaivauksia Vanhan Pöllön kaivolla. | kuollut | – | [1](../kronikka/01-kirkasvirran-muisto.html) |
 | Frath Ammakyl | Aatelinen, Punaisten velhojen "opas" Kivisillalla. Sarinahin kirjeiden "F.A." | elossa | Amphail | [2](../kronikka/02-aavikon-ruusu.html), [9](../kronikka/09-amphail.html) |
 | Hubbard | Lathanderin paladiineiksi naamioituneiden palkkionmetsästäjien johtaja. Jahtasi seuruetta Thayn velhojen etsintäkuulutuksen perusteella. | elossa | ei tiedossa | [5](../kronikka/05-kolmikarjun-taistelu.html) |
-| Hessem Vorn | Ilzimmereiden hovimaagi ja Thayn Punainen velho. | elossa | Seurueen vankina | [9](../kronikka/09-amphail.html) |
+| Hessem Vorn | Ilzimmereiden hovimaagi ja Thayn Punainen velho. Rhogar puhui hänelle paremmasta tiestä, ja hän lähti Rhogarin suosituskirjeen kanssa Nicran luostariin. | elossa | Matkalla Nicran luostariin | [9](../kronikka/09-amphail.html) |
 | Sarinah Tor | Punainen velho, suon kaivauksen johtaja. | kuollut | – | [9](../kronikka/09-amphail.html) |
 | Tithon Drax | Punainen velho, luovutettiin keijuille. | elossa | Keijujen vankina | [9](../kronikka/09-amphail.html) |
 | Amar Koh | Sarinahin kirjeiden "A.K." | elossa | Amphail? | [9](../kronikka/09-amphail.html) |
 | Kapteeni Dragutin | Amphailin palkkasoturikapteeni, joka lainasi miehiä kaivaukselle. | elossa | Amphail | [9](../kronikka/09-amphail.html) |
+| Nimetön manaaja | Punainen velho, joka oli mukana väijytyksessä kärrytiellä. | kuollut | – | [9](../kronikka/09-amphail.html) |
 
 ## Lohikäärmekultti
 

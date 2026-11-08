@@ -65,13 +65,20 @@ Kultistivanki **Jukhur Cumur** oli päättänyt hylätä Lohikäärmekultin aatt
 
 ## Vihreän ruohon juhla
 
-Kolmikarju juhli voittoa ja suri kuolleitaan. Lady Protector otti seurueen vastaan, ja hänen seurassaan oli Hiljaisen Sateen puolihaltia **Sharat**. Hiljainen Sade ei sopimussyistä voinut auttaa. Lady Protector antoi seurueelle **neljä hopeista pinssiä**, jotka hohtavat yhtä aikaa. Niissä lukee: *"Yhdessä olette linnoitus."*
+Kolmikarju juhli voittoa ja suri kuolleitaan. Lady Protector otti seurueen vastaan, ja hänen seurassaan oli Hiljaisen Sateen puolihaltia **Sharat**. Hiljainen Sade ei sopimussyistä voinut auttaa. Lady Protector antoi seurueelle **neljä hopeista solkea**, **Kolmikarjun Vartijan Soljet**, jotka hohtavat yhtä aikaa. Niissä lukee: *"Yhdessä olette linnoitus."*
 
 Seurue keskusteli Länsisillan tilanteesta puolituisen **Herivinin** kanssa. Hän on Länsisillan majatalon isäntä. Hyökkäystä oli johtanut kultisti, jolla oli keltainen viitta, valkoiset naamiot ja kultainen arpi: **Bethrek Mahtava** itse. Kultistit etsivät **Kolmen valtiattaren triptyykkiä** ja olivat jostain syystä patsaiden perässä. Kultin metsäleiri oli Kryptgardenissa.
 
 Thaddeus tunsi kivenhakkaaja **Horgarin**, joka tuntee Kryptgardenin hyvin. Seurue sai selville Horgarin asuinpaikan Länsisillalla sekä salareitin Herivinin majataloon. Thaddeus lähti etsimään hapolta suojaavia juomia. Niitä hän ei löytänyt, mutta toi vedessähengitysjuoman ja ansojen löytämisen käärön.
 
-> **Pinssit:** pinssit antavat kantajilleen 10 minuutin ajaksi pimeänäön ja mahdollistavat telepatian. Reaktiona ne voivat antaa kolmelle kantajalle +2 AC:hen 5 jalan säteellä ja kahdelle +1 aloitteeseen 30 jalan säteellä. Lisäksi niillä voi käyttää *alarm*- ja *detect poison* -loitsuja.
+> **Kolmikarjun Vartijan Solki** (ihmeesine, vaatii virittäytymisen). Soljet voimistuvat sitä mukaa, mitä useampi virittäytynyt kantaja on 30 jalan sisällä toisistaan. Voimat kertyvät:
+>
+> | Kantajia yhdessä | Voima | Hyöty |
+> |---|---|---|
+> | 1 tai enemmän | **Yksinäinen vartija** | Kantaja voi loitsia *alarm*-loitsun (vain rituaalina) ja *detect poison and disease* -loitsun rajattomasti. |
+> | 2 tai enemmän | **Vartijapari** | +1 aloitteeseen. Kantajaa ei voi yllättää, kun toinen kantaja 30 jalan sisällä ei ole toimintakyvytön. |
+> | 3 tai enemmän | **Kilpimuuri** | Kun toiseen kantajaan 5 jalan sisällä kohdistetaan hyökkäys, kantaja voi reaktiollaan antaa tälle +2 AC:hen. |
+> | 4 | **Yhtenäinen rintama** | Kerran pitkän levon aikana ryhmä voi herättää **Jaetun näön**: 10 minuutin ajan kaikilla neljällä on 60 jalan pimeänäkö, ja he voivat puhua toisilleen telepaattisesti mailin päähän. |
 
 ---
 

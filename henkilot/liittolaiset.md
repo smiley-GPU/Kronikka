@@ -6,7 +6,7 @@ nav_order: 2
 
 # Liittolaiset ja tuttavat
 
-*Tila ja olinpaikka 23. Mirtul 1491, sen mukaan mitä seurue tietää. "Missä nyt" on viimeisin tiedossa oleva paikka.*
+*Tila ja olinpaikka 24. Mirtul 1491, sen mukaan mitä seurue tietää. "Missä nyt" on viimeisin tiedossa oleva paikka.*
 
 ## Talabriel ja hänen väkensä
 

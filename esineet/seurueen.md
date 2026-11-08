@@ -14,7 +14,7 @@ nav_order: 1
 | Moukari | Malleus | Haamusepän takoma. Voi kietoa ympäristönsä hiljaisuuteen. | [4](../kronikka/04-myrskyjen-yo.html) |
 | Kuusirppi | Horna | Löytyi Gwaeron's Restistä. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Hurskaan amuletti | Rhogar | Löytyi Gwaeron's Restistä. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
-| Neljä hopeapinssiä | kaikki | Lady Protectorin lahja: "Yhdessä olette linnoitus." | [5](../kronikka/05-kolmikarjun-taistelu.html) |
+| Kolmikarjun Vartijan Soljet (4) | jokainen kantaa yhtä | Lady Protectorin lahja: "Yhdessä olette linnoitus." Vaativat virittäytymisen. Voimat kasvavat, kun useampi kantaja on lähellä toisiaan: *alarm* ja *detect poison and disease*, +1 aloitteeseen ja suoja yllätykseltä, +2 AC:hen reaktiona, ja kerran pitkän levon aikana jaettu pimeänäkö ja telepatia. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Vergadainin mitalit | seurue | Osoittavat kantajan Vergadainin pappien ystäväksi. | [7](../kronikka/07-mirabar.html) |
 | Leroyn pakoavain | seurue | Leroyn lahja. Leroy näytti, miten se toimii. | [8](../kronikka/08-gilin-koti.html) |
 | Rannerengas Thayn riimuilla | seurue | Thayn saalista Leroyn luolasta. | [8](../kronikka/08-gilin-koti.html) |

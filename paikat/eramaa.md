@@ -25,7 +25,7 @@ Laajempien alueiden paikat on lueteltu merkinnällä └ niiden alla.
 | Gwaeron's Rest | Gwaeron's Rest | Pyhättö lähellä Kolmikarjua. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Kivipaadet | – | Pystykivet Xantharlin lähellä, joilla seurue karkotti henkiä. | [7](../kronikka/07-mirabar.html) |
 | Mustakidan räme | Black Maw Bog | Räme Kolmikarjun eteläpuolella. | [8](../kronikka/08-gilin-koti.html) |
-| Nicran luostari | – | Luostari, jossa Rhoanna toipuu. | [8](../kronikka/08-gilin-koti.html) |
+| Nicran luostari | – | Luostari, jossa Rhoanna toipuu. Hessem Vorn lähetettiin sinne. | [8](../kronikka/08-gilin-koti.html), [9](../kronikka/09-amphail.html) |
 | Gilin kotitila | – | Poltettu tila, Gilin vanhempien koti. | [8](../kronikka/08-gilin-koti.html) |
 | Leroyn luola | – | Rosvojen piilopaikka Louhikosken eteläpuolella. | [8](../kronikka/08-gilin-koti.html) |
 | Keijujen suo | – | Metsäsuo Louhikosken eteläpuolella, Thayn kaivaus. | [9](../kronikka/09-amphail.html) |
