@@ -17,7 +17,6 @@ nav_order: 1
 | Kolmikarjun Vartijan Soljet (4) | jokainen kantaa yhtä | Lady Protectorin lahja: "Yhdessä olette linnoitus." Vaativat virittäytymisen. Voimat kasvavat, kun useampi kantaja on lähellä toisiaan: *alarm* ja *detect poison and disease*, +1 aloitteeseen ja suoja yllätykseltä, +2 AC:hen reaktiona, ja kerran pitkän levon aikana jaettu pimeänäkö ja telepatia. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Vergadainin mitalit | seurue | Osoittavat kantajan Vergadainin pappien ystäväksi. | [7](../kronikka/07-mirabar.html) |
 | Leroyn pakoavain | seurue | Leroyn lahja. Leroy näytti, miten se toimii. | [8](../kronikka/08-gilin-koti.html) |
-| Rannerengas Thayn riimuilla | seurue | Thayn saalista Leroyn luolasta. | [8](../kronikka/08-gilin-koti.html) |
 | Punainen silkkihuntu | seurue | Thayn saalista Leroyn luolasta. | [8](../kronikka/08-gilin-koti.html) |
 | Tumma lasiastia | seurue | Thayn saalista Leroyn luolasta. | [8](../kronikka/08-gilin-koti.html) |
 | Sarinahin loitsukirja ja verkkosauva | seurue | Saalista suon kaivaukselta. | [9](../kronikka/09-amphail.html) |

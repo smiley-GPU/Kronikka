@@ -48,7 +48,9 @@ Keijut palauttivat Hessem Vornin, ja hänestä tuli seurueen vanki. Rhogar yritt
 
 Kun seurue kääntyi kärrytielle kohti kaivauspaikkaa, se yritettiin väijyttää. Taisteluun osallistui voimakas velho **epäkuolleiden soturien kautta**: hän puhui ja loitsi niiden suulla. Ääni kutsui seuruetta "varkaiksi, jotka ovat varastaneet taas" ja muistutti, että "tapasimme ensimmäisen kerran Kivisillalla". Kaikki viittasi siihen, että velho oli **Kazit Gul**. Häntä tukivat **ketjupaholainen**, **epäkuolleet jättiläiskorppikotkat**, palkkasoturit ja nimetön Punainen velho, manaaja.
 
-Pahan Karkoittajat jauhoivat vastustajansa tomuksi.
+Pahan Karkoittajat jauhoivat vastustajansa tomuksi. Ketjupaholainen karkotettiin takaisin omalle tasolleen.
+
+Taistelun jälkeen **Malleus luopui rannerenkaasta, jossa oli Thayn riimuja**, ja jätti sen väijytyspaikalle.
 
 ## Yö ennen kaivauksia
 

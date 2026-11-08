@@ -18,4 +18,5 @@ nav_order: 2
 | Kolmen valtiattaren triptyykki | ei tiedossa | Kultti etsi sitä. | [5](../kronikka/05-kolmikarjun-taistelu.html) |
 | Rhoannan sielukivi | tuhottu | Kivi Rhoannan rinnassa. Sisällä oli Gezzog. | [6](../kronikka/06-gezzogin-tuho.html) |
 | Sielukivet | Kazit Gulilla | Kivet, joista Talabriel kertoi. | [7](../kronikka/07-mirabar.html) |
+| Rannerengas Thayn riimuilla | jätetty kärrytien väijytyspaikalle | Thayn saalista Leroyn luolasta. Malleus kantoi sitä, kunnes luopui siitä väijytyksen jälkeen. | [8](../kronikka/08-gilin-koti.html), [9](../kronikka/09-amphail.html) |
 | Käsi | kätketty Dessarinin soihin | Valtava luinen käsi ammuksineen suon kaivaukselta. | [9](../kronikka/09-amphail.html) |
